@@ -4,3 +4,4 @@ It comes before all other files.
 
 Change 1 in primary file.
 Change 2 in primary file.
+Change 3 in primary file.
